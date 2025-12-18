@@ -18,10 +18,6 @@
 	path = joemiller
 	url = https://github.com/joemiller/workwithme.guide-myguide.git
 	branch = master
-[submodule "cecili-reid"]
-	path = cecili-reid
-	url = https://github.com/creid31/workwithme.guide-myguide.git
-	branch = master
 [submodule "ianlofs"]
 	path = ianlofs
 	url = https://github.com/ianlofs/workwithme.guide-myguide.git
